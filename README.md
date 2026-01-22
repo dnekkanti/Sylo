@@ -104,19 +104,6 @@ sylo/
 
 ---
 
-## 🎨 Design Philosophy
-
-SYLO follows Apple's design language with:
-
-- **Clean white backgrounds** with subtle gray cards
-- **Gradient accents** (blue to purple) for primary actions
-- **Glassmorphism** with backdrop blur effects
-- **Smooth animations** with scale transforms on interactions
-- **Generous spacing** and rounded corners
-- **Profile pictures** showing friend networks at a glance
-
----
-
 ## 🔑 Key Features
 
 ### Feed View
@@ -201,18 +188,6 @@ One-stop-shop for friend-centric event discovery
 - Seamless group purchasing
 - Ticket resale marketplace
 - Advanced escrow features
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! Please follow these steps:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ---
 
